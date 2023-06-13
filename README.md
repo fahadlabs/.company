@@ -1,4 +1,4 @@
-# JannahMate Ltd
+# Fahadlabs Ltd
 
 The policies of the company.
 
